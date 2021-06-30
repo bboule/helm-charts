@@ -1,4 +1,4 @@
-# replicaCount -- number of replicas for nginx deployment..
+# replicaCount -- number of replicas for nginx deployment.
 replicaCount: 1
 
 image:
